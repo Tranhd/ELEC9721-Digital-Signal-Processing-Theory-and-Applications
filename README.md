@@ -1,4 +1,4 @@
-# Medical Imaging
+# Digital Signal Processing Theory and Applications
 
 ## Lab 1 Simple Sampling and Spectra
 * **Very simple signal processing with Matlab.**
