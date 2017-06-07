@@ -19,7 +19,7 @@
 ## Lab 4 Finite Word Length.
 * **Fixet point representation conversions**
 
-## Lab 4 Multirate DSP.
+## Lab 5 Multirate DSP.
 * **Multirate system design**
 
 ## Author
